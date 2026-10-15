@@ -33,7 +33,14 @@ If `--trial` was passed, or Vera says two ideas are close, run the `/adhd-mode:t
 Append Zap's "Tangents" section to `.adhd/tangents.md` in the project root (create it if missing) under a heading `## <YYYY-MM-DD> — <short request>`. Never overwrite — append. Killed ideas are not lost: also append Vera's KILL list there under `### Graveyard`.
 
 ## 6. Report to the user
-Keep it short and scannable:
+Keep it short and scannable.
+
+**Bug mode** — report Doc's full ranking, not a top 5:
+1. Every hypothesis Doc ranked (at least 8), in Doc's **cheapest-to-test-first** order, each with its 5-minute check (command, grep, log line).
+2. Vera's recommended fix approach and how to verify it.
+3. One line: "Tangents saved to `.adhd/tangents.md`".
+
+**Idea mode:**
 1. **Zap's top 5** (names + one line each) and how many ideas were generated.
 2. **Doc's verdict** on those: feasibility, prior art (NOVEL / EXISTS).
 3. **Vera's winner** — pitch, the slice, first step tomorrow, the Postcard from 2031.
