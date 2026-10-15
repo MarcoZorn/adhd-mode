@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="444" viewBox="0 0 980 444" role="img" aria-label="ADHD Mode demo: Zap, Doc, Vera and a blind jury pick a winning idea">
+<style>text{font:15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre;opacity:0}@keyframes l0{0%,0.00%{opacity:0}1.39%,96%{opacity:1}100%{opacity:0}}.l0{animation:l0 18.0s linear infinite}@keyframes l1{0%,7.78%{opacity:0}9.17%,96%{opacity:1}100%{opacity:0}}.l1{animation:l1 18.0s linear infinite}@keyframes l2{0%,14.44%{opacity:0}15.83%,96%{opacity:1}100%{opacity:0}}.l2{animation:l2 18.0s linear infinite}@keyframes l3{0%,21.11%{opacity:0}22.50%,96%{opacity:1}100%{opacity:0}}.l3{animation:l3 18.0s linear infinite}@keyframes l4{0%,27.78%{opacity:0}29.17%,96%{opacity:1}100%{opacity:0}}.l4{animation:l4 18.0s linear infinite}@keyframes l5{0%,34.44%{opacity:0}35.83%,96%{opacity:1}100%{opacity:0}}.l5{animation:l5 18.0s linear infinite}@keyframes l6{0%,38.89%{opacity:0}40.28%,96%{opacity:1}100%{opacity:0}}.l6{animation:l6 18.0s linear infinite}@keyframes l7{0%,42.22%{opacity:0}43.61%,96%{opacity:1}100%{opacity:0}}.l7{animation:l7 18.0s linear infinite}@keyframes l8{0%,45.56%{opacity:0}46.94%,96%{opacity:1}100%{opacity:0}}.l8{animation:l8 18.0s linear infinite}@keyframes l9{0%,48.89%{opacity:0}50.28%,96%{opacity:1}100%{opacity:0}}.l9{animation:l9 18.0s linear infinite}@keyframes l10{0%,52.22%{opacity:0}53.61%,96%{opacity:1}100%{opacity:0}}.l10{animation:l10 18.0s linear infinite}@keyframes l11{0%,57.78%{opacity:0}59.17%,96%{opacity:1}100%{opacity:0}}.l11{animation:l11 18.0s linear infinite}@keyframes l12{0%,63.33%{opacity:0}64.72%,96%{opacity:1}100%{opacity:0}}.l12{animation:l12 18.0s linear infinite}@keyframes l13{0%,70.00%{opacity:0}71.39%,96%{opacity:1}100%{opacity:0}}.l13{animation:l13 18.0s linear infinite}</style>
+<rect width="980" height="444" rx="12" fill="#14141a"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="490" y="25" fill="#777" text-anchor="middle" style="opacity:1;font-size:13px">claude — adhd-mode (replay of a real run)</text>
+<text class="l0" x="24" y="56" fill="#e6e6e6">$ /adhd-mode:adhd a to-do app people with ADHD would actually keep using --squirrel</text>
+<text class="l1" x="24" y="82" fill="#c49a6c">🐿️  SQUIRREL  For Today (metalcore band) · Rushmoor Borough Council election</text>
+<text class="l2" x="24" y="108" fill="#f5d547">⚡ Zap    25 ideas · why-drill: lists turn into guilt piles by day 9</text>
+<text class="l3" x="24" y="134" fill="#5fd38d">🧪 Doc    prior art: 1 NOVEL · 2 PARTIAL · 2 ALREADY EXIST</text>
+<text class="l4" x="24" y="160" fill="#c792ea">🎯 Vera   21 killed · winner: Rushmoor Thirds</text>
+<text class="l5" x="24" y="186" fill="#ff7a7a">⚖️  Court  Rushmoor Thirds  vs  For Today Only</text>
+<text class="l6" x="24" y="212" fill="#82aaff">   juror · end user           → Rushmoor</text>
+<text class="l7" x="24" y="238" fill="#82aaff">   juror · 3am engineer       → For Today</text>
+<text class="l8" x="24" y="264" fill="#82aaff">   juror · skeptical investor → Rushmoor</text>
+<text class="l9" x="24" y="290" fill="#82aaff">   juror · curious 12-yo      → For Today</text>
+<text class="l10" x="24" y="316" fill="#82aaff">   juror · historian 2036     → Rushmoor</text>
+<text class="l11" x="24" y="342" fill="#ffffff" font-weight="700">⚖️  VERDICT  Rushmoor Thirds (3–2)</text>
+<text class="l12" x="24" y="368" fill="#e6e6e6">   “Every 3 days, a third of your tasks stand for re-election.”</text>
+<text class="l13" x="24" y="394" fill="#c49a6c">📮 2031: everyone re-elected everything → cap parliament at 21 seats</text>
+</svg>
