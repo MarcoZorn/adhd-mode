@@ -1,0 +1,10 @@
+{
+  "name": "adhd-mode",
+  "version": "0.1.0",
+  "description": "ADHD Mode for Claude Code: a neurodivergent brainstorm team of AI agents. Zap generates wild ideas, Doc breaks them down technically, Vera picks the winner with taste, and an Idea Court with an isolated jury settles debates. Creative ideation, design concepts, out-of-the-box bug hunting.",
+  "author": { "name": "MarcoZorn", "email": "m@zorn.it", "url": "https://github.com/MarcoZorn" },
+  "homepage": "https://github.com/MarcoZorn/adhd-mode",
+  "repository": "https://github.com/MarcoZorn/adhd-mode",
+  "license": "MIT",
+  "keywords": ["adhd", "brainstorming", "creativity", "ideation", "multi-agent", "subagents", "design", "debate", "llm-jury", "claude-code"]
+}

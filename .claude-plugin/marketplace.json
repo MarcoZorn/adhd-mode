@@ -1,0 +1,14 @@
+{
+  "name": "adhd-mode",
+  "owner": { "name": "MarcoZorn", "email": "m@zorn.it" },
+  "description": "ADHD Mode: neurodivergent brainstorm agents for Claude Code",
+  "plugins": [
+    {
+      "name": "adhd-mode",
+      "source": ".",
+      "description": "Zap, Doc, Vera and the Idea Court: wild ideas, technical breakdowns, taste, and an impartial jury.",
+      "category": "productivity",
+      "keywords": ["adhd", "brainstorming", "creativity", "multi-agent", "debate"]
+    }
+  ]
+}
