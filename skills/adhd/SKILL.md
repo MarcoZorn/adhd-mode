@@ -2,7 +2,7 @@
 name: adhd
 description: ADHD Mode — run the full neurodivergent brainstorm pipeline. Zap ⚡ floods wild ideas, Doc 🧪 breaks them down technically and checks prior art, Vera 🎯 picks the winner and makes it concrete. Use for creative ideas, product/design concepts, out-of-the-box alternatives, or getting unstuck on a bug ("bug: ..."). Add "--trial" to settle the top two in Idea Court, "--squirrel" to inject random entropy.
 argument-hint: "[bug:] <problem or idea> [--squirrel] [--trial]"
-allowed-tools: Bash(bash *squirrel.sh*) Read Write Edit
+allowed-tools: Bash(bash *squirrel.sh*) Bash(shuf *) Read Write Edit
 ---
 
 # ADHD Mode ⚡🧪🎯
