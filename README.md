@@ -82,8 +82,18 @@ Zap's side-quests and Vera's killed ideas are appended to `.adhd/tangents.md` in
 The plugin ships with an eval suite for `claude plugin eval`. It runs each case with and without the plugin, so you can measure the difference yourself:
 
 ```bash
-claude plugin eval . --trust-plugin
+claude plugin eval . --trust-plugin --allow-tools Bash Write Edit WebFetch WebSearch
 ```
+
+Latest run (Claude Code 2.1.300, 1 run per case, so a small sample. The rubrics are in [`evals/`](evals/)):
+
+| Case | With ADHD Mode | Plain Claude Code |
+|---|---|---|
+| Brainstorm (15+ ideas, unusual picks, novelty check, one winner, pre-mortem) | ✅ | ❌ |
+| Bug mode (8+ hypotheses, ranked by cheapest test, a concrete check for each) | ✅ | ❌ |
+| Idea Court (a winner, a vote tally, a dissent) | ✅ | ❌ |
+
+The rubrics reward the structure this plugin is built to produce, so treat this as "it does what it says" and not as a benchmark. Run it yourself and send a PR with more cases.
 
 ## FAQ
 
