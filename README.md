@@ -21,6 +21,9 @@ Ask an LLM for ideas and you get the **most likely** idea: the average of everyt
 
 ADHD Mode splits thinking the way creative studios do. One agent generates wildly and isn't allowed to build anything. One makes it technically real. One cuts it down with taste. Each step runs as a separate Claude Code subagent with its own context, so the wild one never gets "sensible-ified" by the critic halfway through a thought.
 
+> **Real run →** [`/adhd-mode:adhd A to-do app for people with ADHD that they'd actually keep using --squirrel`](examples/adhd-todo-app.md)
+> 25 ideas · two random Wikipedia squirrels (a metalcore band and a UK council election) · winner: **"Rushmoor Thirds"**, a to-do list where every 3 days a third of your tasks stand for re-election · blind jury verdict 3–2.
+
 Use it for product ideas, UI and 3D design concepts, naming, architecture alternatives, and **getting unstuck on bugs**.
 
 ## Install
