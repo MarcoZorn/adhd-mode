@@ -15,6 +15,8 @@
 
 </div>
 
+<p align="center"><img src="docs/demo.svg" alt="ADHD Mode demo: Zap, Doc, Vera and a blind jury pick a winning idea" width="860"></p>
+
 ---
 
 Ask an LLM for ideas and you get the **most likely** idea: the average of everything it has read. That's great for code and terrible for creativity.
