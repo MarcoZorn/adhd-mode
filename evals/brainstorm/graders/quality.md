@@ -2,5 +2,10 @@
 type: llm
 ---
 
-PASS if the final answer does ALL of: (1) presents several distinct ideas, at least three of which are genuinely unusual (not standard onboarding tropes like tutorials, progress bars, streaks, personalization quizzes or welcome videos); (2) gives some feasibility or effort judgement for the ideas; (3) commits to ONE winning concept described concretely enough to start building (what the user sees, a smallest first version or first step).
-FAIL if the ideas are mostly conventional onboarding patterns, or if it ends without choosing a single direction.
+PASS only if the final answer does ALL of:
+(1) shows evidence of breadth: states or lists at least 15 distinct ideas generated (a count like "24 ideas" with a top selection is fine);
+(2) at least three highlighted ideas are genuinely unusual, not standard onboarding tropes (tutorials, progress bars, streaks, personalization quizzes, welcome videos, breathing intros);
+(3) gives an explicit prior-art / novelty judgement per top idea (e.g. "already exists in X", "novel");
+(4) commits to ONE winner with a smallest first version or first step;
+(5) includes an explicit pre-mortem: concrete reasons the winning idea could fail, each with a mitigation.
+FAIL if any of the five is missing.
